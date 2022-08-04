@@ -1,0 +1,43 @@
+.ConttollButton{
+  margin-top: 130%;
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 60%;
+  height: 50%;
+}
+
+.CenterButton{
+  width: 100%;
+  height: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.ForwardButton{
+  width: 50%;
+  height: 100%;
+}
+
+.ForwardArea{
+  text-align: center;
+  height: 40%;
+}
+
+.BackwardArea{
+  text-align: center;
+  height: 20%;
+}
+.BackwardButton{
+  width: 50%;
+  height: 100%;
+}
+
+.RightButton{
+  width: 50%;
+  height:100%;
+}
+
+.LeftButton{
+  width: 50%;
+  height:100%;
+}
