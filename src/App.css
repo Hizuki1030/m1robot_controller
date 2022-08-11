@@ -1,5 +1,5 @@
 .ConttollButton{
-  margin-top: 130%;
+  margin-top: 40%;
   margin-left: 20%;
   margin-right: 20%;
   width: 60%;
@@ -13,10 +13,25 @@
   margin-bottom: 5%;
 }
 
+
+.StopButton{
+  width: 10%;
+  margin: 10%;
+}
+
+.StopArea{
+  width: 10%;
+  margin: 10%;
+}
+
+
+
 .ForwardButton{
   width: 50%;
   height: 100%;
 }
+
+
 
 .ForwardArea{
   text-align: center;
