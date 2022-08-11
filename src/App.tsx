@@ -123,7 +123,7 @@ function App() {
 
       </div>
       <div className= "ForwardArea">
-        <Button className="ForwardButton" variant="contained"  onMouseUp={handlePublishTopic_stop} onMouseDown={handlePublishTopic_forward} >↑</Button>
+        <Button className="ForwardButton" variant="contained"  onClick={handlePublishTopic_forward} >↑</Button>
       </div>
         <div className = "CenterButton">
           <Button className="LeftButton" variant="contained" onClick={handlePublishTopic_left}>←</Button>
