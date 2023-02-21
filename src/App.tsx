@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-import Rowma, { Topic } from 'rowma_js';
+import { Rowma,Topic } from 'rowma_js';
 import Button from '@material-ui/core/Button';
 
 function App() {
